@@ -8,6 +8,12 @@
 
 # 容器安装
 
+```
   sudo docker-compose create
+```
+
   然后按要求添加默认建的网络
+
+```
   sudo docker-compose start
+```
